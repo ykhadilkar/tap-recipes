@@ -1,9 +1,11 @@
 # Tanzu Application Platform Recipes
-This repository contains recipes for frequently asked additions / integrations / updates to Tanzu Application Platform (TAP)
+This repository contains recipes for frequently asked additions / integrations / updates to Tanzu Application Platform (TAP) & Tanzu in general
 
-## Recipes 
-[Publishing Tech docs using MinIO](./minio-install.md)
+## TAP Recipes 
+[TAP - Publishing Tech docs using MinIO](./minio-install.md)
 
-[DotNet App with Testing Pipeline](https://github.com/ykhadilkar/weatherforecast-with-unit-testing/tree/main)
+[TAP - DotNet App with Testing Pipeline](https://github.com/ykhadilkar/weatherforecast-with-unit-testing/tree/main)
 
-[Install TAP in 5 minutes](./tap-tmc-install.md)
+[TAP - Install TAP in 5 minutes](./tap-tmc-install.md)
+
+[TMC - Backup using MinIO](./tmc-minio.md)
