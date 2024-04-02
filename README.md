@@ -9,3 +9,5 @@ This repository contains recipes for frequently asked additions / integrations /
 [TAP - Install TAP in 5 minutes](./tap-tmc-install.md)
 
 [TMC - Backup using MinIO](./tmc-minio.md)
+
+[TAP - DotNet App Docker Image with External Secret Binding](https://github.com/ykhadilkar/aspnetapp/blob/main/config/README.md)
